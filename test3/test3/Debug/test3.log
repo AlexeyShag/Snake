@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+c:\users\1\desktop\нпк 2018\test3\test3\mylib.h(51): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\desktop\нпк 2018\test3\test3\myform.h(1042): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\desktop\нпк 2018\test3\test3\myform.h(1126): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note:  см. объявление "strcpy"
+c:\users\1\desktop\нпк 2018\test3\test3\myform.h(1084): warning C4101: Message: неиспользованная локальная переменная
+c:\users\1\desktop\нпк 2018\test3\test3\myform.h(1195): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\1\desktop\нпк 2018\test3\test3\myform.h(1259): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\1\desktop\нпк 2018\test3\test3\myform.h(1360): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+c:\users\1\desktop\нпк 2018\test3\test3\myform.h(1430): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+c:\users\1\desktop\нпк 2018\test3\test3\myform.h(1467): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\1\desktop\нпк 2018\test3\test3\myform.h(1834): warning C4804: <: небезопасное использование типа "bool" в операции
+c:\users\1\desktop\нпк 2018\test3\test3\myform.h(1977): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\1\desktop\нпк 2018\test3\test3\mylib.h(85): warning C4715: Snake::Go: значение возвращается не при всех путях выполнения
+  test3.vcxproj -> C:\Users\1\Desktop\НПК 2018\test3\Debug\test3.exe
